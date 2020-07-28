@@ -1,0 +1,169 @@
+a{
+text-decoration: none;
+color: black;
+}
+
+b{
+font-weight: 600;
+}
+
+h1{
+
+  position: absolute;
+  width: 528px;
+  height: 41px;
+  left: 91px;
+  top: 125px;
+
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 41px;
+  /* identical to box height */
+
+
+  color: #000000;
+}
+
+head1{
+  position: absolute;
+width: 65px;
+height: 20px;
+left: 948px;
+top: 42px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 350;
+font-size: 15px;
+line-height: 20px;
+
+color: #000000;
+
+}
+
+head2{
+  position: absolute;
+width: 76px;
+height: 20px;
+left: 1040px;
+top: 42px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 350;
+font-size: 15px;
+line-height: 20px;
+
+color: #000000;
+}
+head3{
+  position: absolute;
+width: 55px;
+height: 20px;
+left: 1143px;
+top: 42px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 350;
+font-size: 15px;
+line-height: 20px;
+
+color: #000000;
+
+}
+head4{
+  position: absolute;
+  width: 65px;
+  height: 20px;
+  left: 1225px;
+  top: 42px;
+
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 350;
+  font-size: 15px;
+  line-height: 20px;
+
+  color: #000000;
+
+}
+head5{ position: absolute;
+width: 52px;
+height: 20px;
+left: 1317px;
+top: 42px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 350;
+font-size: 15px;
+line-height: 20px;
+
+color: #000000;
+
+}
+
+.main{
+
+  position: absolute;
+width: 580px;
+height: 440px;
+left: 91px;
+top: 225px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 27px;
+
+color: #000000;
+
+}
+
+pic{
+
+  position: absolute;
+  width: 448px;
+  height: 658px;
+  left: 839px;
+  top: 158px;
+
+}
+
+logo {
+  position: absolute;
+  width: 60px;
+  height: 50px;
+  left: 34px;
+  top: 34px;
+
+
+}
+
+linkedin {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 263px;
+  top: 730px;
+}
+
+email {
+  position: absolute;
+  width: 22px;
+  height: 30px;
+  left: 426px;
+  top: 731px;
+}
+
+github {
+  position: absolute;
+  width: 50px;
+  height: 25px;
+  left: 338px;
+  top: 730px;
+}
