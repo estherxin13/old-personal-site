@@ -411,7 +411,7 @@ background: #252121;
 border-radius: 16px;
  }
 
- head1{
+ hd1{
    position: absolute;
 width: 272px;
 height: 45px;
@@ -451,14 +451,15 @@ color: #C4C4C4;
 width: 44.34px;
 height: 17.89px;
 left: 1066px;
-top: 674px;
-z-index: +1
+top: 676px;
+
 
 font-family: sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 15px;
 line-height: 20px;
+z-index: 10;
 
 color: #000000;
 
