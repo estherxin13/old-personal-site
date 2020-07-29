@@ -1,0 +1,130 @@
+body{
+background: white;
+}
+a {
+text-decoration: none;
+color: black;
+}
+
+logo {
+  position: absolute;
+  width: 60px;
+  height: 50px;
+  left: 34px;
+  top: 34px;
+
+
+}
+
+h1{
+  position: absolute;
+  width: 423px;
+  height: 53px;
+  left: 103px;
+  top: 134px;
+
+  font-family:sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 39px;
+  line-height: 53px;
+
+  color: #000000;
+
+}
+
+h2{
+  position: absolute;
+width: 771px;
+height: 31px;
+left: 103px;
+top: 199px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 31px;
+
+color: #000000;
+}
+
+head1{
+  position: absolute;
+width: 65px;
+height: 20px;
+left: 948px;
+top: 42px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 350;
+font-size: 15px;
+line-height: 20px;
+
+color: #000000;
+
+}
+
+head2{
+  position: absolute;
+width: 76px;
+height: 20px;
+left: 1040px;
+top: 42px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 350;
+font-size: 15px;
+line-height: 20px;
+
+color: #000000;
+}
+head3{
+  position: absolute;
+width: 55px;
+height: 20px;
+left: 1143px;
+top: 42px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 350;
+font-size: 15px;
+line-height: 20px;
+
+color: #000000;
+
+}
+head4{
+  position: absolute;
+  width: 65px;
+  height: 20px;
+  left: 1225px;
+  top: 42px;
+
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 350;
+  font-size: 15px;
+  line-height: 20px;
+
+  color: #000000;
+
+}
+head5{ position: absolute;
+width: 52px;
+height: 20px;
+left: 1317px;
+top: 42px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 350;
+font-size: 15px;
+line-height: 20px;
+
+color: #000000;
+
+}
