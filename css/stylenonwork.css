@@ -128,3 +128,157 @@ line-height: 20px;
 color: #000000;
 
 }
+
+box3{
+  position: absolute;
+width: 400px;
+height: 69.7px;
+left: 103px;
+top: 328px;
+
+background: #FFFFFF;
+border: 2px solid #A9213A;
+box-sizing: border-box;
+border-radius: 22px;
+}
+
+h3{
+  position: absolute;
+width: 327.74px;
+height: 60.2px;
+left: 138.27px;
+top: 330px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+
+p3{
+  position: absolute;
+width: 442px;
+height: 297.87px;
+left: 108px;
+top: 437px;
+
+font-family:sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 37px;
+/* or 161% */
+
+
+color: #000000;
+}
+
+pic1{
+  position: absolute;
+width: 346px;
+height: 400px;
+left: 720px;
+top: 328px;
+
+background: url(Screen Shot 2020-07-27 at 4.30.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+pic2{
+  position: absolute;
+width: 291px;
+height: 218px;
+left: 1095px;
+top: 330px;
+
+background: url(Screen Shot 2020-07-26 at 6.27.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+pic3{
+  position: absolute;
+width: 289px;
+height: 157px;
+left: 1097px;
+top: 571px;
+
+background: url(Screen Shot 2020-07-27 at 4.31.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+box4{
+  position: absolute;
+width: 400px;
+height: 70.14px;
+left: 103px;
+top: 842.54px;
+
+background: #FFFFFF;
+border: 2px solid #A9213A;
+box-sizing: border-box;
+border-radius: 22px;
+}
+
+p4{
+  position: absolute;
+width: 442px;
+height: 223.4px;
+left: 117px;
+top: 983.42px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 37px;
+/* or 161% */
+
+
+color: #000000;
+}
+
+h4{
+  position: absolute;
+width: 327.74px;
+height: 60.58px;
+left: 138.27px;
+top: 838px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+
+pic4{
+  position: absolute;
+width: 580px;
+height: 392.46px;
+left: 776px;
+top: 843px;
+
+background: url(soccer photos.jpg);
+border-radius: 20px;
+}
+
+box5{
+  position: absolute;
+width: 50px;
+height: 50px;
+left: 856px;
+top: 1280px;
+
+background: white;
+border-radius: 16px;
+}
