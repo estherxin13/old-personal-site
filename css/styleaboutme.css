@@ -1,3 +1,5 @@
+
+
 /* Grow */
 .hvr-grow {
     display: inline-block;
@@ -145,10 +147,12 @@ color: #000000;
 pic{
 
   position: absolute;
-  width: 448px;
-  height: 658px;
+  width: 466px;
+  height: 560px;
   left: 839px;
   top: 158px;
+
+
 
 }
 
@@ -165,7 +169,7 @@ linkedin {
   position: absolute;
   width: 20px;
   height: 20px;
-  left: 263px;
+  left: 200px;
   top: 730px;
 }
 
@@ -173,7 +177,7 @@ email {
   position: absolute;
   width: 22px;
   height: 30px;
-  left: 426px;
+  left: 380px;
   top: 731px;
 }
 
@@ -181,6 +185,14 @@ github {
   position: absolute;
   width: 50px;
   height: 25px;
-  left: 338px;
+  left: 278px;
+  top: 730px;
+}
+
+twitter {
+  position: absolute;
+  width: 50px;
+  height: 25px;
+  left: 470px;
   top: 730px;
 }
