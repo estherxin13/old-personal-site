@@ -92,7 +92,7 @@ head1{
   position: absolute;
 width: 65px;
 height: 20px;
-left: 948px;
+left: 890px;
 top: 42px;
 
 font-family: sans-serif;
@@ -102,13 +102,14 @@ font-size: 15px;
 line-height: 20px;
 
 color: #000000;
+
 }
 
 head2{
   position: absolute;
 width: 76px;
 height: 20px;
-left: 1040px;
+left: 985px;
 top: 42px;
 
 font-family: sans-serif;
@@ -119,12 +120,11 @@ line-height: 20px;
 
 color: #000000;
 }
-
 head3{
   position: absolute;
 width: 55px;
 height: 20px;
-left: 1143px;
+left: 1090px;
 top: 42px;
 
 font-family: sans-serif;
@@ -134,13 +134,13 @@ font-size: 15px;
 line-height: 20px;
 
 color: #000000;
-}
 
+}
 head4{
   position: absolute;
   width: 65px;
   height: 20px;
-  left: 1225px;
+  left: 1176px;
   top: 42px;
 
   font-family: sans-serif;
@@ -150,12 +150,12 @@ head4{
   line-height: 20px;
 
   color: #000000;
-}
 
+}
 head5{ position: absolute;
 width: 52px;
 height: 20px;
-left: 1317px;
+left: 1270px;
 top: 42px;
 
 font-family: sans-serif;
@@ -165,7 +165,28 @@ font-size: 15px;
 line-height: 20px;
 
 color: #000000;
+
 }
+
+head6{
+  position: absolute;
+  width: 52px;
+  height: 20px;
+  left: 1330px;
+  top: 42px;
+
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 350;
+  font-size: 15px;
+  line-height: 20px;
+
+  color: #000000;
+
+
+
+}
+
 
 logo {
   position: absolute;
