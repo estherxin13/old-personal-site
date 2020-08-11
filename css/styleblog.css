@@ -1,4 +1,40 @@
 
+
+.hvr-grow {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.03);
+}
+
+/* Fade */
+.hvr-fade {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  overflow: hidden;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: color, background-color;
+  transition-property: color, background-color;
+}
+.hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active {
+  background-color: #2098D1;
+  color: white;
+}
+
+
 logo {
   position: absolute;
   width: 60px;
@@ -144,7 +180,7 @@ headbook{
 width: 681px;
 height: 65px;
 left: 140px;
-top: 302px;
+top: 296px;
 
 font-family: sans-serif;
 font-style: normal;
@@ -170,7 +206,7 @@ line-height: 34px;
 /* identical to box height */
 
 
-color: #787575;
+color: #5a5a5a;
 
 }
 
@@ -188,7 +224,7 @@ font-weight: normal;
 font-size: 21px;
 line-height: 29px;
 
-color: #787575;
+color: #a6a6a6;
 
 transform: rotate(-89.48deg);
 }
@@ -210,7 +246,7 @@ headsoccer{
   width: 440px;
   height: 80.91px;
   left: 140px;
-  top: 489.63px;
+  top: 482px;
 
   font-family: sans-serif;
   font-style: normal;
@@ -235,9 +271,7 @@ subsoccer{
   font-size: 25px;
   line-height: 34px;
 
-  color: #787575;
-
-
+  color: #5a5a5a;
 }
 
 date2{
@@ -254,7 +288,7 @@ font-weight: normal;
 font-size: 21px;
 line-height: 29px;
 
-color: #787575;
+color: #a6a6a6;
 
 transform: rotate(-89.48deg);
 }
