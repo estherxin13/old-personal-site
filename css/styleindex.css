@@ -2,6 +2,9 @@ body {
   width:100%;
 }
 
+* {
+  box-sizing:border-box;
+}
 
 /* Fade */
  .hvr-fade {
@@ -49,10 +52,10 @@ color: black;
 
 h1{
   position: absolute;
-  width: 650px;
+  width: 1000px;
   height: 43px;
   left: 74px;
-  top: 122px;
+  top: 110px;
 
   font-family: sans-serif;
   font-style: normal;
@@ -63,7 +66,7 @@ h1{
   color: #000000;
 }
 h2{ position: absolute;
-width: 374px;
+width: 700px;
 height: 27px;
 left: 74px;
 top: 193px;
@@ -82,14 +85,14 @@ position: absolute;
 width: 96px;
 height: 27px;
 left: 270px;
-top: 650px;
+top: 640px;
 
 font-family: sans-serif;
 font-style: normal;
 font-weight: 600;
 font-size: 20px;
 line-height: 27px;
-
+z-index: 10px;
 color: white;
 
 }
@@ -156,8 +159,9 @@ font-style: normal;
 font-weight: 350;
 font-size: 15px;
 line-height: 20px;
+z-index: 10;
 
-color: #000000;
+color: black;
 
 }
 
@@ -243,16 +247,15 @@ head6{
 
 
 
-aboutme{
+.about{
 
   position: absolute;
-  width: 285px;
-  height: 461px;
+  width: 300px;
+  height: 420px;
   left: 74px;
   top: 280px;
   z-index: -1;
-
-
+    float:left;
 }
 
 logo {
@@ -265,32 +268,39 @@ logo {
 
 }
 
-community {
+.community {
   position: absolute;
   width: 285px;
   height: 461px;
   left: 408px;
   top: 280px;
+  float:left;
 
 }
 
-
-
-projects{
+.projects{
   position: absolute;
   width: 320px;
   height: 440px;
   left: 742px;
   top: 280px;
+  float:left;
 
 }
 
 
-non{
+.non{
   position: absolute;
   width: 320px;
   height: 440px;
   left: 1082px;
   top: 280px;
+  float:left;
 
+}
+
+@media screen and (max-width:800px) {
+  .about, .community, .projects, .non {
+    width:100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
 }
